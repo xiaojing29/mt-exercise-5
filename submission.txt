@@ -1,0 +1,11 @@
+# Submission Information for MT Exercise 5
+
+
+The created graphs are saved under mt-exercise-5 directory, and I also submitted them together with this text file and the PDF document.
+
+My findings are included in the PDF document.
+
+Please refer to the modified README.md for modifications and additions I made.
+
+## Link to my forked repository:
+https://github.com/xiaojing29/mt-exercise-5
